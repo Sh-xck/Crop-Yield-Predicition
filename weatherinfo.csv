@@ -1,0 +1,406 @@
+State,Year,AvgTemp,AvgHumidity,TotalRainfall
+Andhra Pradesh,2008,27.2,67,950
+Andhra Pradesh,2009,26.5,64,820
+Andhra Pradesh,2010,27.8,69,1080
+Andhra Pradesh,2011,26.9,66,890
+Andhra Pradesh,2012,27.5,68,980
+Andhra Pradesh,2013,27,65,850
+Andhra Pradesh,2014,28.1,70,1120
+Andhra Pradesh,2015,26.7,63,780
+Andhra Pradesh,2016,27.9,68,1050
+Andhra Pradesh,2017,26.8,64,830
+Andhra Pradesh,2018,28.2,71,1150
+Andhra Pradesh,2019,27.1,66,900
+Andhra Pradesh,2020,27.6,68,1000
+Andhra Pradesh,2021,26.2,62,760
+Andhra Pradesh,2022,28,70,1070
+Tamil Nadu,2008,27.5,72,950
+Tamil Nadu,2009,26.8,69,830
+Tamil Nadu,2010,27.9,74,1050
+Tamil Nadu,2011,27.2,71,890
+Tamil Nadu,2012,27.7,73,980
+Tamil Nadu,2013,26.9,68,880
+Tamil Nadu,2014,28.2,75,1100
+Tamil Nadu,2015,26.5,67,790
+Tamil Nadu,2016,28,72,1070
+Tamil Nadu,2017,27.3,70,850
+Tamil Nadu,2018,28.4,76,1150
+Tamil Nadu,2019,27,69,920
+Tamil Nadu,2020,27.8,73,1020
+Tamil Nadu,2021,26.2,62,760
+Tamil Nadu,2022,28,70,1070
+Kerala,2008,25.6,77,2850
+Kerala,2009,24.9,75,2650
+Kerala,2010,26.4,79,3020
+Kerala,2011,25.8,76,2780
+Kerala,2012,26.3,78,2950
+Kerala,2013,25.6,74,2830
+Kerala,2014,26,77,2900
+Kerala,2015,25.9,74,2750
+Kerala,2016,26.5,78,2950
+Kerala,2017,26,76,2800
+Kerala,2018,26.6,79,3000
+Kerala,2019,26.1,77,2920
+Kerala,2020,26.7,78,2980
+Kerala,2021,25.3,74,2700
+Kerala,2022,26.8,77,2970
+Chandigarh,2008,20.7,66,642
+Chandigarh,2009,21,65,710
+Chandigarh,2010,21.5,67,684
+Chandigarh,2011,20.8,64,598
+Chandigarh,2012,21.2,66,745
+Chandigarh,2013,20.5,63,610
+Chandigarh,2014,21.8,67,789
+Chandigarh,2015,20.9,64,632
+Chandigarh,2016,22,68,815
+Chandigarh,2017,21.3,65,654
+Chandigarh,2018,22.2,69,870
+Chandigarh,2019,21.5,66,725
+Chandigarh,2020,22.4,68,901
+Chandigarh,2021,21,63,678
+Chandigarh,2022,22.3,67,847
+Gujarat,2008,27.6,62,721
+Gujarat,2009,27.2,61,654
+Gujarat,2010,28,63,812
+Gujarat,2011,27.5,62,749
+Gujarat,2012,28.1,64,876
+Gujarat,2013,27.4,61,701
+Gujarat,2014,28.3,65,945
+Gujarat,2015,27.7,63,802
+Gujarat,2016,28.5,64,928
+Gujarat,2017,27.8,62,765
+Gujarat,2018,28.7,66,1014
+Gujarat,2019,28,64,856
+Gujarat,2020,28.8,65,989
+Gujarat,2021,27.4,62,722
+Gujarat,2022,28.9,66,1032
+Telangana,2008,27.8,63,845
+Telangana,2009,27.3,62,782
+Telangana,2010,28.1,64,917
+Telangana,2011,27.6,63,834
+Telangana,2012,28.2,65,972
+Telangana,2013,27.5,62,807
+Telangana,2014,28.4,66,1029
+Telangana,2015,27.8,64,876
+Telangana,2016,28.6,65,1004
+Telangana,2017,27.9,64,920
+Telangana,2018,28.7,66,1052
+Telangana,2019,28.2,65,947
+Telangana,2020,28.9,66,1084
+Telangana,2021,27.5,63,856
+Telangana,2022,28.8,65,1021
+Haryana,2008,21.2,65,642
+Haryana,2009,21.5,64,598
+Haryana,2010,21.8,66,745
+Haryana,2011,20.8,59,498
+Haryana,2012,21.3,65,610
+Haryana,2013,20.5,63,678
+Haryana,2014,21.9,67,789
+Haryana,2015,21.4,64,632
+Haryana,2016,22,68,815
+Haryana,2017,21.7,65,654
+Haryana,2018,22.2,69,870
+Haryana,2019,21.8,66,725
+Haryana,2020,22.4,68,901
+Haryana,2021,21.5,63,678
+Haryana,2022,22.3,67,847
+Madhya Pradesh,2008,26.5,69,1059
+Madhya Pradesh,2009,26,68,982
+Madhya Pradesh,2010,26.7,70,1124
+Madhya Pradesh,2011,26.2,69,1017
+Madhya Pradesh,2012,26.9,71,1205
+Madhya Pradesh,2013,25.8,68,952
+Madhya Pradesh,2014,27.1,72,1278
+Madhya Pradesh,2015,26.5,69,1086
+Madhya Pradesh,2016,27.2,70,1154
+Madhya Pradesh,2017,26.7,69,1020
+Madhya Pradesh,2018,27.4,71,1242
+Madhya Pradesh,2019,26.9,70,1107
+Madhya Pradesh,2020,27.7,72,1298
+Madhya Pradesh,2021,26.3,68,1001
+Madhya Pradesh,2022,27.8,71,1267
+Uttar Pradesh,2008,24.8,72,821
+Uttar Pradesh,2009,24.3,71,754
+Uttar Pradesh,2010,25,73,892
+Uttar Pradesh,2011,24.5,72,789
+Uttar Pradesh,2012,25.2,74,945
+Uttar Pradesh,2013,24.7,71,807
+Uttar Pradesh,2014,25.4,75,987
+Uttar Pradesh,2015,24.9,72,832
+Uttar Pradesh,2016,25.6,73,918
+Uttar Pradesh,2017,25.1,72,854
+Uttar Pradesh,2018,25.8,74,1029
+Uttar Pradesh,2019,25.3,73,907
+Uttar Pradesh,2020,26,75,1042
+Uttar Pradesh,2021,24.6,71,782
+Uttar Pradesh,2022,26.3,74,1017
+Puducherry,2008,28.5,74,1356
+Puducherry,2009,28.1,73,1284
+Puducherry,2010,28.8,75,1427
+Puducherry,2011,28.3,74,1312
+Puducherry,2012,29,76,1485
+Puducherry,2013,28.4,73,1257
+Puducherry,2014,29.1,77,1542
+Puducherry,2015,28.6,74,1386
+Puducherry,2016,29.3,75,1454
+Puducherry,2017,28.8,74,1320
+Puducherry,2018,29.5,77,1517
+Puducherry,2019,29,75,1402
+Puducherry,2020,29.7,78,1574
+Puducherry,2021,28.2,73,1231
+Puducherry,2022,29.8,77,1552
+Rajasthan,2008,27.1,56,428
+Rajasthan,2009,26.7,55,382
+Rajasthan,2010,27.4,57,485
+Rajasthan,2011,27,56,417
+Rajasthan,2012,27.7,58,542
+Rajasthan,2013,26.8,55,401
+Rajasthan,2014,28,59,598
+Rajasthan,2015,27.5,56,452
+Rajasthan,2016,28.2,58,615
+Rajasthan,2017,27.7,56,470
+Rajasthan,2018,28.4,60,642
+Rajasthan,2019,27.9,57,527
+Rajasthan,2020,28.7,61,694
+Rajasthan,2021,27.3,55,431
+Rajasthan,2022,28.8,60,678
+Uttarakhand,2008,18.4,67,1287
+Uttarakhand,2009,18,66,1192
+Uttarakhand,2010,18.7,68,1354
+Uttarakhand,2011,18.2,67,1247
+Uttarakhand,2012,18.9,69,1425
+Uttarakhand,2013,18.3,66,1172
+Uttarakhand,2014,19,70,1502
+Uttarakhand,2015,18.5,67,1317
+Uttarakhand,2016,19.2,68,1485
+Uttarakhand,2017,18.7,67,1290
+Uttarakhand,2018,19.4,70,1567
+Uttarakhand,2019,18.9,68,1362
+Uttarakhand,2020,19.6,71,1634
+Uttarakhand,2021,18.2,66,1147
+Uttarakhand,2022,19.7,70,1522
+Ladakh,2008,5.1,42,167
+Ladakh,2009,4.7,41,152
+Ladakh,2010,5.4,43,184
+Ladakh,2011,4.9,42,169
+Ladakh,2012,5.6,44,196
+Ladakh,2013,5,41,155
+Ladakh,2014,5.7,45,208
+Ladakh,2015,5.2,42,173
+Ladakh,2016,5.9,44,215
+Ladakh,2017,5.4,42,180
+Ladakh,2018,6.1,46,232
+Ladakh,2019,5.6,43,197
+Ladakh,2020,6.3,47,244
+Ladakh,2021,4.9,41,162
+Ladakh,2022,6.4,46,227
+Bihar,2008,25.8,73,1152
+Bihar,2009,25.3,72,1087
+Bihar,2010,26,74,1245
+Bihar,2011,25.5,73,1129
+Bihar,2012,26.2,75,1314
+Bihar,2013,25.7,72,1092
+Bihar,2014,26.4,76,1387
+Bihar,2015,25.9,73,1176
+Bihar,2016,26.6,74,1264
+Bihar,2017,26.1,73,1107
+Bihar,2018,26.8,75,1352
+Bihar,2019,26.3,74,1195
+Bihar,2020,27,76,1384
+Bihar,2021,25.6,72,1078
+Bihar,2022,27.3,75,1327
+Mizoram,2008,21.2,84,2874
+Mizoram,2009,21,83,2782
+Mizoram,2010,21.4,85,2947
+Mizoram,2011,21.1,84,2831
+Mizoram,2012,21.6,86,3024
+Mizoram,2013,21.3,83,2752
+Mizoram,2014,21.8,85,3107
+Mizoram,2015,21.5,84,2916
+Mizoram,2016,22,86,3174
+Mizoram,2017,21.7,84,2952
+Mizoram,2018,22.2,87,3242
+Mizoram,2019,21.9,85,3027
+Mizoram,2020,22.4,88,3314
+Mizoram,2021,21.1,83,2731
+Mizoram,2022,22.5,87,3287
+Maharashtra,2008,27.3,70,1478
+Maharashtra,2009,26.9,69,1399
+Maharashtra,2010,27.6,71,1562
+Maharashtra,2011,27.1,70,1443
+Maharashtra,2012,27.8,72,1630
+Maharashtra,2013,27.3,70,1402
+Maharashtra,2014,28,73,1687
+Maharashtra,2015,27.5,71,1516
+Maharashtra,2016,28.2,72,1604
+Maharashtra,2017,27.7,71,1470
+Maharashtra,2018,28.4,73,1662
+Maharashtra,2019,27.9,72,1557
+Maharashtra,2020,28.6,74,1744
+Maharashtra,2021,27.2,70,1421
+Maharashtra,2022,28.7,73,1698
+Odisha,2008,27.8,78,1542
+Odisha,2009,27.4,77,1467
+Odisha,2010,28.1,79,1635
+Odisha,2011,27.6,78,1518
+Odisha,2012,28.3,80,1707
+Odisha,2013,27.8,77,1502
+Odisha,2014,28.5,81,1780
+Odisha,2015,28,78,1575
+Odisha,2016,28.7,80,1664
+Odisha,2017,28.2,78,1547
+Odisha,2018,28.9,81,1742
+Odisha,2019,28.4,79,1637
+Odisha,2020,29.1,82,1824
+Odisha,2021,27.7,77,1512
+Odisha,2022,29.2,81,1798
+Jharkhand,2008,27.5,75,1382
+Jharkhand,2009,27.1,74,1307
+Jharkhand,2010,27.8,76,1454
+Jharkhand,2011,27.4,75,1357
+Jharkhand,2012,28.1,77,1524
+Jharkhand,2013,27.7,74,1342
+Jharkhand,2014,28.4,78,1587
+Jharkhand,2015,27.9,75,1426
+Jharkhand,2016,28.6,77,1504
+Jharkhand,2017,28.2,76,1450
+Jharkhand,2018,28.9,78,1572
+Jharkhand,2019,28.4,77,1495
+Jharkhand,2020,29.1,79,1644
+Jharkhand,2021,27.7,75,1391
+Jharkhand,2022,29.2,78,1557
+Himachal Pradesh,2008,16.7,67,1287
+Himachal Pradesh,2009,16.3,66,1192
+Himachal Pradesh,2010,17,68,1354
+Himachal Pradesh,2011,16.5,67,1247
+Himachal Pradesh,2012,17.2,69,1425
+Himachal Pradesh,2013,16.7,66,1172
+Himachal Pradesh,2014,17.4,70,1502
+Himachal Pradesh,2015,16.9,67,1317
+Himachal Pradesh,2016,17.6,68,1485
+Himachal Pradesh,2017,17.1,67,1290
+Himachal Pradesh,2018,17.8,70,1567
+Himachal Pradesh,2019,17.3,68,1362
+Himachal Pradesh,2020,18,71,1634
+Himachal Pradesh,2021,16.6,66,1147
+Himachal Pradesh,2022,18.1,70,1522
+Karnataka,2008,27.8,63,845
+Karnataka,2009,27.3,62,782
+Karnataka,2010,28.1,64,917
+Karnataka,2011,27.6,63,834
+Karnataka,2012,28.2,65,972
+Karnataka,2013,27.5,62,807
+Karnataka,2014,28.4,66,1029
+Karnataka,2015,27.8,64,876
+Karnataka,2016,28.6,65,1004
+Karnataka,2017,27.9,64,920
+Karnataka,2018,28.7,66,1052
+Karnataka,2019,28.2,65,947
+Karnataka,2020,28.9,66,1084
+Karnataka,2021,27.5,63,856
+Karnataka,2022,28.8,65,1021
+Assam,2008,26.2,84,2356
+Assam,2009,25.8,83,2287
+Assam,2010,26.4,85,2425
+Assam,2011,26,84,2338
+Assam,2012,26.6,86,2497
+Assam,2013,26.2,83,2302
+Assam,2014,26.8,85,2542
+Assam,2015,26.4,84,2416
+Assam,2016,27,86,2512
+Assam,2017,26.7,84,2387
+Assam,2018,27.4,86,2602
+Assam,2019,26.9,85,2475
+Assam,2020,27.6,87,2684
+Assam,2021,26.2,83,2338
+Assam,2022,27.7,86,2557
+Meghalaya,2008,17.2,85,2442
+Meghalaya,2009,16.8,84,2377
+Meghalaya,2010,17.5,86,2515
+Meghalaya,2011,17.1,85,2428
+Meghalaya,2012,17.8,87,2597
+Meghalaya,2013,17.4,84,2402
+Meghalaya,2014,18.1,86,2642
+Meghalaya,2015,17.7,85,2516
+Meghalaya,2016,18.4,87,2612
+Meghalaya,2017,18,85,2487
+Meghalaya,2018,18.7,87,2692
+Meghalaya,2019,18.3,86,2567
+Meghalaya,2020,19,88,2774
+Meghalaya,2021,17.6,84,2428
+Meghalaya,2022,19.1,87,2687
+Chhattisgarh,2008,26.2,72,1382
+Chhattisgarh,2009,25.8,71,1307
+Chhattisgarh,2010,26.5,73,1454
+Chhattisgarh,2011,26.1,72,1357
+Chhattisgarh,2012,26.8,74,1524
+Chhattisgarh,2013,26.4,71,1342
+Chhattisgarh,2014,27.1,73,1587
+Chhattisgarh,2015,26.7,72,1426
+Chhattisgarh,2016,27.4,74,1504
+Chhattisgarh,2017,27,72,1450
+Chhattisgarh,2018,27.7,74,1572
+Chhattisgarh,2019,27.3,73,1495
+Chhattisgarh,2020,28,75,1644
+Chhattisgarh,2021,26.6,71,1391
+Chhattisgarh,2022,28.1,74,1557
+Jammu and Kashmir,2008,15.4,72,1052
+Jammu and Kashmir,2009,15,71,987
+Jammu and Kashmir,2010,15.7,73,1125
+Jammu and Kashmir,2011,15.3,72,1038
+Jammu and Kashmir,2012,16,74,1197
+Jammu and Kashmir,2013,15.6,71,1002
+Jammu and Kashmir,2014,16.3,73,1245
+Jammu and Kashmir,2015,15.9,72,1076
+Jammu and Kashmir,2016,16.6,74,1164
+Jammu and Kashmir,2017,16.2,72,1050
+Jammu and Kashmir,2018,16.9,74,1202
+Jammu and Kashmir,2019,16.5,73,1137
+Jammu and Kashmir,2020,17.2,75,1284
+Jammu and Kashmir,2021,15.8,71,1012
+Jammu and Kashmir,2022,17.3,74,1198
+Manipur,2008,21.8,84,2256
+Manipur,2009,21.4,83,2187
+Manipur,2010,22.1,85,2345
+Manipur,2011,21.7,84,2238
+Manipur,2012,22.4,86,2417
+Manipur,2013,22,83,2192
+Manipur,2014,22.7,85,2492
+Manipur,2015,22.3,84,2346
+Manipur,2016,23,86,2464
+Manipur,2017,22.6,84,2327
+Manipur,2018,23.3,86,2542
+Manipur,2019,22.9,85,2417
+Manipur,2020,23.6,87,2604
+Manipur,2021,22.2,83,2158
+Manipur,2022,23.7,86,2497
+Punjab,2008,23.1,68,524
+Punjab,2009,22.7,67,498
+Punjab,2010,23.4,69,562
+Punjab,2011,23,68,517
+Punjab,2012,23.7,70,585
+Punjab,2013,23.3,67,502
+Punjab,2014,24,69,612
+Punjab,2015,23.6,68,567
+Punjab,2016,24.3,70,604
+Punjab,2017,23.9,67,540
+Punjab,2018,24.6,70,632
+Punjab,2019,24.2,69,587
+Punjab,2020,25,71,654
+Punjab,2021,23.6,67,512
+Punjab,2022,25.1,70,628
+West Bengal,2008,27.3,80,1957
+West Bengal,2009,26.9,79,1882
+West Bengal,2010,27.6,81,2035
+West Bengal,2011,27.2,80,1928
+West Bengal,2012,27.9,82,2107
+West Bengal,2013,27.5,79,1892
+West Bengal,2014,28.2,81,2180
+West Bengal,2015,27.8,80,1976
+West Bengal,2016,28.5,82,2164
+West Bengal,2017,28.1,80,1947
+West Bengal,2018,28.8,82,2242
+West Bengal,2019,28.4,81,2037
+West Bengal,2020,29.1,83,2324
+West Bengal,2021,27.7,80,1928
+West Bengal,2022,29.2,82,2297
