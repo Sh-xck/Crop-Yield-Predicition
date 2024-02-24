@@ -1,6 +1,6 @@
 # Crop-Yield-Predicition
 
-Results : -
+Results : - (Done through Stacking by comparing various different models)
 
 
 Potato
