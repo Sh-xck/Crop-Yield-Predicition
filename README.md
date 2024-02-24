@@ -2,8 +2,13 @@
 
 Results : -
 
+
 Potato
+
+
 ![Potato](https://github.com/Sh-xck/Crop-Yield-Predicition/assets/120919844/d1a71c0b-954d-4dd7-99bd-267ccb957a84)
+
+
 Rice
 ![ric](https://github.com/Sh-xck/Crop-Yield-Predicition/assets/120919844/5adc9c70-8f9a-4e48-8916-8e1c909f4f27)
 Onion
